@@ -1,0 +1,20 @@
+body{
+    margin:0;
+    padding:0;
+
+}
+.container-fluid{
+    height:100%;
+}
+.topbar{
+    height:25px;
+    background-color:#333356;
+    color:cyan;
+}
+li{
+    list-style: none;
+    color: cyan;
+}
+.card{
+    height:900px;
+}
